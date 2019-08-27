@@ -1,3 +1,4 @@
 # code your #position_taken? method here!
-position_taken? (position (board, index)).to be(false)
+def position_taken? 
+  if array[index_number].to be(false)
 end
